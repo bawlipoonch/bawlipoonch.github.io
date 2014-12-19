@@ -26,11 +26,11 @@ Its about how to effectively address this falsehood.
   Here for most part fundamentalist fringe elements does not control the government and we have a democratically elected government system which we take for granted.
   For all the dynasty bashing, Nehru/Gandhi did not took over the control of the government. We are talking about a phase of India where everyone 
   including BJP leaders were in awe of Jawaharlal Nehru/Indira gandhi (Remember Vajpayee calling Indira incarnation of Durga goddess). 
-  Apart from a relapse during 1975-77, If India is a successful democracy (along with its faults), Congress deserves the accolades.
+  Apart from the relapse during 1975-77, If India is a successful democracy (along with its faults), Congress deserves the accolades.
 </p>
 
 <p>
-  China (since other countries were too small etc), we have come a long way without sacrificing liberty (something most right wingers care two hoots about) 
+  China (since other countries are too small etc), we have come a long way without sacrificing liberty (something most right wingers care two hoots about) 
   or the environment (something no right winger cares two hoots about) or even causing the deaths of 30-50 million human lives (which also most right wingers care two hoots about) 
   to <a href="http://en.wikipedia.org/wiki/Great_Chinese_Famine" target="_blank">famines during the great leap forward</a>.
 
@@ -66,29 +66,31 @@ Its about how to effectively address this falsehood.
   I can show you picture of ABV on a buffalo to prove that ABV was no less dramatic than Mulayam in his days.</p>
 <p>Another gem: RSS opposed electricity dams as they claimed that sucking electricity out of it will reduce the potency of the water to irrigate crops.</p>
 <p>One more: Does anyone remember slogans such as “Jehar Pepsi” (Pepsi used to be called Lehar Pepsi in those days).</p>
-<p>They opposed economic reforms tooth and nail, terming it a sell out to MNCs. 
+<p>
+  They opposed economic reforms tooth and nail, terming it a sell out to MNCs. 
   (Ironically, the current government is now leading a sell-out to corporate interests over citizen interests, but thats another days topic).
+  Insurance FDI is most interesting one. PC created FDI in Insurance bill in 1997-98 initially with 49% limit. But BJP blocked it. PC begged to allow 20% FDI in insurance but no, Swadeshi BJP was not okay for sellout of LIC. Then ABV comes to power and bill was passed with 26% limit with Congress support. BJP was bitten with swadeshi bug again for 10 years when they blocked chnage in limit to 49% for 10 freaking years during UPA. Within 6 months, they have the audacity to bring the same bill and will again be passed with Congress support. 
 </p>
 <p>So any ‘gyan’ about how ‘nationalists’ called RSS drive progressive change is a piece of big pile of stale cow shit.</p>
 <p>
    At this point, question will be raised regarding Black money and Corruption. And i agree this is the single biggest area where Congress failed India multiple times.
    Congress has been soft on corruption and India has a parallel economy of black money dealings but that does not means Congress as a whole is corrupt. 
-   There are some bad apples in Congress but not all. As a Congress supporter, I was more frustrated with Congress's inability to break the nexus of those bad politicians
+   There are some bad apples in Congress but not all. As a Congress supporter, I was more frustrated with Congress's inability to break the nexus of those bad politicians,
    bureaucrats and businessmen. 
 </p>
 <p>
-   This is reason i turned a AAP sympathiser when Arvind Kejriwal started a new party although i was vocally critical of whole Lokpal and nation on ransom "India aganist Corruption" thing. I do not see how yet another institution can fix the woes of Indian bureaucracy. Creating a new body with legislative, judiciary and execution power outside elected parliament is not the solution. Its not democratic to begin with. And I am not sure how long will it take for corrupts to find there ways into it if it holds all the power. Rats are planted in those places where it returns value. 
+   This is reason i turned a AAP sympathiser when Arvind Kejriwal started a new party although i was vocally critical of whole Lokpal and nation on ransom "India aganist Corruption" thing. I do not see how yet another institution can fix the woes of Indian bureaucracy. Creating a new body with legislative, judiciary and execution power more powerful than elected parliament is not the solution. Its not democratic to begin with. And I am not sure how long will it take for corrupts to find ways into if it holds all the power. Rats are planted in those places where it returns value. 
 </p>   
 <p>  
-   As it turns out, All prominent leaders(Anna Hazare, Kiran Bedi, Baba Ramdev, SriSri Ravi Sankar, VK Singh) of 'India against Corruption' movement except Arvind kejriwal are sitting ducks now that INC is out of power. Mission accomplished!! Another gem, all except Anna are part of BJP now and not a single peep from them regarding status of beloved Lokpal and black money. Kiran bedi's pitiful tweets would had be source of amusement to me if it was not sad. So theory that IAC/Lokpal was RSS-sponsored drama to destabilize UPA-II does not sounds very far from truth.
+   As it turned out, All prominent leaders(Anna Hazare, Kiran Bedi, Baba Ramdev, SriSri Ravi Sankar, VK Singh) of 'India against Corruption' movement except Arvind kejriwal are sitting ducks now that INC is out of power. Mission accomplished!! Another gem, all except Anna are part of BJP now and not a single peep from them regarding status of beloved Lokpal and black money. Kiran bedi's pitiful tweets would had be source of amusement to me if it was not sad. So theory that IAC/Lokpal was RSS-sponsored drama to destabilize UPA-II does not sounds very far from truth.
 </p>
 <p>
   Leaving the 'imposters' aside, lets talk about the real 'nationalists'. BJP blocked parliament for 6 sessions in 3 years between 2011 and 2013 completely on the basis of CAG reports on 2G and Coal scam. That's ~70% of the time of legislative assembly. Without proper legislation power, no government can work. If this act of politics from BJP was not betrayal to nation, i dont know what can be. BJP members including Arun Jaitley raised slogan 'PM chor hai' in parliament. When they comes in power, Mr Arun Jaitley did a <a target="_blank" href="http://timesofindia.indiatimes.com/india/CAG-should-not-sensationalize-its-findings-Arun-Jaitley-says/articleshow/44972857.cms">mother of u-turn on CAG's validity</a> and claiming that CAG is nothing but a retrospective on what could have been done better, probably when Congress said the same, there must be spelling mistake. Mr Jaitley you are nothing but a two-faced hypocrite. 
 </p>
 <p>
-  On bringing black money back, Tunes changed from distributing <a href="https://www.youtube.com/watch?v=EbdFJ2vg3ic" target="_blank"> 15-20 lakh to each poor Indian(~10-30 trillion USD, multiple times of Indian GDP)</a> to mann ki baat of <a  target="_blank" href="http://zeenews.india.com/news/india/modis-mann-ki-baat-will-bring-back-every-penny-of-black-money-assures-pm_1492714.html">'i dont know how much money is stashed abroad'</a>. BJP is following the same process of revealing names of the tax offenders against whom police has strong evidence. I have not seen any positive effort from new government to fill the important open posts like RTI dept chief, CVO etc. Forget big Congress leaders, They have not even filled a case on damaad ji Robert Vadra, easiest target of all, only used him in election rhetorics. So tell me are you serious, are you serious, are you serious on corruption ? whats wrong with you ? 
+  On bringing black money back, Tunes changed from distributing <a href="https://www.youtube.com/watch?v=EbdFJ2vg3ic" target="_blank"> 15-20 lakh to each poor Indian (~10-30 trillion USD, multiple times of Indian GDP)</a> to mann ki baat of <a target="_blank" href="http://zeenews.india.com/news/india/modis-mann-ki-baat-will-bring-back-every-penny-of-black-money-assures-pm_1492714.html">'i dont know how much money is stashed abroad'</a>. Now BJP is following the same process of revealing names of the tax offenders against whom police has strong evidence. I have not seen any positive effort from new government to fill the important open posts like RTI dept chief, CVO etc. Forget big Congress leaders, They have not even filed a case against Damaad shree Robert Vadra, easiest target of all, only used him in election rhetorics. So tell me are you serious, are you serious, are you serious on corruption ? whats wrong with you ? 
 </p>
-<p> Fun fact: China has <a href="http://www.transparency.org/country" target="_blank"> similar corruption levels </a> and govt officials expects a "gift" left behind. Black money outflow from China is double of India.
+<p> Fun fact: China has <a href="http://www.transparency.org/country" target="_blank"> similar corruption levels </a> and govt officials expects a "gift" left behind. Also Black money outflow from China is 2.5 times of India. </p>
 <p>
   Day to day life corruption can only be solved through automation. If there is no middle man, no chance of corruption at all. That's why i am such a big proponent of Aadhar card and identity service. No prize for guessing that BJP opposed it as well in UPA time (and did a u-turn when came to power). 
 </p>
