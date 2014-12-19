@@ -70,6 +70,34 @@ Its about how to effectively address this falsehood.
   (Ironically, the current government is now leading a sell-out to corporate interests over citizen interests, but thats another days topic).
 </p>
 <p>So any ‘gyan’ about how ‘nationalists’ called RSS drive progressive change is a piece of big pile of stale cow shit.</p>
+<p>
+   At this point, question will be raised regarding Black money and Corruption. And i agree this is the single biggest area where Congress failed India multiple times.
+   Congress has been soft on corruption and India has a parallel economy of black money dealings but that does not means Congress as a whole is corrupt. 
+   There are some bad apples in Congress but not all. As a Congress supporter, I was more frustrated with Congress's inability to break the nexus of those bad politicians
+   bureaucrats and businessmen. 
+</p>
+<p>
+   This is reason i turned a AAP sympathiser when Arvind Kejriwal started a new party although i was vocally critical of whole Lokpal and nation on ransom "India aganist Corruption" thing. I do not see how yet another institution can fix the woes of Indian bureaucracy. Creating a new body with legislative, judiciary and execution power outside elected parliament is not the solution. Its not democratic to begin with. And I am not sure how long will it take for corrupts to find there ways into it if it holds all the power. Rats are planted in those places where it returns value. 
+</p>   
+<p>  
+   As it turns out, All prominent leaders(Anna Hazare, Kiran Bedi, Baba Ramdev, SriSri Ravi Sankar, VK Singh) of 'India against Corruption' movement except Arvind kejriwal are sitting ducks now that INC is out of power. Mission accomplished!! Another gem, all except Anna are part of BJP now and not a single peep from them regarding status of beloved Lokpal and black money. Kiran bedi's pitiful tweets would had be source of amusement to me if it was not sad. So theory that IAC/Lokpal was RSS-sponsored drama to destabilize UPA-II does not sounds very far from truth.
+</p>
+<p>
+  Leaving the 'imposters' aside, lets talk about the real 'nationalists'. BJP blocked parliament for 6 sessions in 3 years between 2011 and 2013 completely on the basis of CAG reports on 2G and Coal scam. That's ~70% of the time of legislative assembly. Without proper legislation power, no government can work. If this act of politics from BJP was not betrayal to nation, i dont know what can be. BJP members including Arun Jaitley raised slogan 'PM chor hai' in parliament. When they comes in power, Mr Arun Jaitley did a <a target="_blank" href="http://timesofindia.indiatimes.com/india/CAG-should-not-sensationalize-its-findings-Arun-Jaitley-says/articleshow/44972857.cms">mother of u-turn on CAG's validity</a> and claiming that CAG is nothing but a retrospective on what could have been done better, probably when Congress said the same, there must be spelling mistake. Mr Jaitley you are nothing but a two-faced hypocrite. 
+</p>
+<p>
+  On bringing black money back, Tunes changed from distributing <a href="https://www.youtube.com/watch?v=EbdFJ2vg3ic" target="_blank"> 15-20 lakh to each poor Indian(~10-30 trillion USD, multiple times of Indian GDP)</a> to mann ki baat of <a  target="_blank" href="http://zeenews.india.com/news/india/modis-mann-ki-baat-will-bring-back-every-penny-of-black-money-assures-pm_1492714.html">'i dont know how much money is stashed abroad'</a>. BJP is following the same process of revealing names of the tax offenders against whom police has strong evidence. I have not seen any positive effort from new government to fill the important open posts like RTI dept chief, CVO etc. Forget big Congress leaders, They have not even filled a case on damaad ji Robert Vadra, easiest target of all, only used him in election rhetorics. So tell me are you serious, are you serious, are you serious on corruption ? whats wrong with you ? 
+</p>
+<p> Fun fact: China has <a href="http://www.transparency.org/country" target="_blank"> similar corruption levels </a> and govt officials expects a "gift" left behind. Black money outflow from China is double of India.
+<p>
+  Day to day life corruption can only be solved through automation. If there is no middle man, no chance of corruption at all. That's why i am such a big proponent of Aadhar card and identity service. No prize for guessing that BJP opposed it as well in UPA time (and did a u-turn when came to power). 
+</p>
+<p> 
+  I dont know about any solutions for big ticket corruption as when lot of money is involved, you dont know who sell out his/her principles. But i would put my money on making politics free of criminals. Here again, stats are more favorable to Congress when it comes to serious crime accused be it candidates, members of parliament or ministers.
+</p>
+
+<p> So next time, you rant about Congress is corrupt, please question BJP as well and how they are helping <a href="http://www.ndtv.com/article/india/missing-minister-nihal-chand-meghwal-skips-court-appearance-sends-lawyer-619637" target="_blank"> Rajasthan police in search of rape accused minister Nihal chand Meghwal</a> or defend tadipaar party president of yours Amit Shah. But dont worry too much, both will get clean chits very very soon :)
+</p>
 
 <p>Somewhere around now a 'nationalist' right winger will pull out a paper done by Swamy Iyer where he explores what would have happened had India started reforming earlier.
 
