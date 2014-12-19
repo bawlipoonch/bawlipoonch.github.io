@@ -1,0 +1,64 @@
+---
+layout: default
+---
+
+<!-- Post Header -->
+<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{{ page.header-img }}')">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="post-heading">
+                    <h1>{{ page.title }}</h1>
+                    {% if page.subtitle %}
+                    <h2 class="subheading">{{ page.subtitle }}</h2>
+                    {% endif %}
+                    <span class="meta">Posted by {{ page.author }} on {{ page.date | date: "%B %-d, %Y" }}</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!-- Post Content -->
+<article>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+				{{ content }}
+                
+                <hr>
+
+                {% if page.comments %}
+
+                    <script src="https://apis.google.com/js/plusone.js">
+                    </script>
+                    <div class="g-comments"
+                        data-href="http://mdasif.github.io/{{page.url}}"
+                        data-width="642"
+                        data-first_party_property="BLOGGER"
+                        data-view_type="FILTERED_POSTMOD">
+                    </div>
+                    <noscript>Please enable JavaScript to view the <a href="http://plus.google.com/?ref_noscript">comments powered by Google+.</a></noscript>
+
+                {% endif %}
+
+                <ul class="pager">
+                    {% if page.previous.url %}
+                    <li class="previous">
+                        <a href="{{ site.baseurl }}/{{page.previous.url}}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a> 
+                    </li>
+                    {% endif %} 
+                    {% if page.next.url %}
+                    <li class="next">
+                        <a href="{{ site.baseurl }}/{{page.next.url}}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
+                    </li>
+                    {% endif %} 
+                </ul>
+
+            </div>
+        </div>
+    </div>
+</article>
+
+<hr>
