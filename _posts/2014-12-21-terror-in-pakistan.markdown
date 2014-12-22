@@ -13,7 +13,6 @@ comments: true
 </p>
 
 <b>Work in progress</b>
-<a href="http://www.nytimes.com/2014/12/22/world/asia/in-2008-mumbai-attacks-piles-of-spy-data-but-an-uncompleted-puzzle.html"> Read this while i finish my blog entry; In 2008 Mumbai Killings, Piles of Spy Data, but an Uncompleted Puzzle</a>
 
 <blockquote>
 	उठ-उठ के मस्जिदो से नमाज़ी चले गए<br/>
