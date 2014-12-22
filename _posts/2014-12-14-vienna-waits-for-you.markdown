@@ -2,7 +2,7 @@
 layout:     post
 title:      "Learning it hard way"
 subtitle:   "When will you realize, vienna waits for you."
-date:       2014-12-12 12:00:00
+date:       2014-11-12 12:00:00
 author:     "mdasif"
 header-img: "img/easy-way-hard-way.jpg"
 comments: true

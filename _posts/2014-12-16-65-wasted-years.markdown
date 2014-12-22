@@ -2,7 +2,7 @@
 layout:     post
 title:      "65 wasted years"
 subtitle:   "Missed opportunities are not the only events that define our destiny."
-date:       2014-12-16 23:00:00
+date:       2014-12-12 23:00:00
 author:     "mdasif"
 header-img: "img/wasted-years.jpg"
 comments: true
