@@ -9,7 +9,7 @@ comments: true
 ---
 
 <p> 
-	Long time back i started compiling a <a href="http://md-asif.blogspot.com/2013/06/cynical-songs.html" target="_blank"> list of cynical songs</a>. I thought i will pick up the list again. Next song in the list is <b>dekh tere insaan ki haalat kya ho gayi bhagwan</b> which was the opening song of film <b>Nastik</b> in 1954. Set in the aftermath of partition violence, this movie held a mirror to our horrfying history and strongly condemned the hypocrisy of organised religion. One can understand how easy it was to lose one's faith in God, when one looked around and saw the carnage that people were capable of. This song still resonates today. One cannot help but feel that things have not changed much in the intervening decades. 
+	Long time back i started compiling a <a href="http://md-asif.blogspot.com/2013/06/cynical-songs.html" target="_blank"> list of cynical songs</a>. I thought i will pick up the list again. Next song in the list is <b>dekh tere insaan ki haalat kya ho gayi bhagwan</b> which was the opening song of film <b>Nastik</b> in 1954. Set in the aftermath of partition violence, this movie held a mirror to our horrfying history and strongly condemned the hypocrisy of organised religion. One can understand how easy it was to lose one's faith in God, when one looked around and saw the carnage that people were capable of. This song still resonates today. I cannot help but feel that things have not changed much in the intervening decades. 
 </p>
 
 <iframe width="100%" height="480" src="//www.youtube.com/embed/1_5LLtxAB4I" frameborder="0" allowfullscreen></iframe>
