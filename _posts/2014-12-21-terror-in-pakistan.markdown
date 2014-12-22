@@ -9,7 +9,7 @@ comments: true
 ---
 
 <p> 
-	On 16 december 2014, Seven terrorists killed 138 people including 132 children. I refuse to count 7 terrorists as human death. This was one of the most dastardly terror attack in the long list of such crimes. I was shocked and saddened with whole event. A mere condemnation of perpetrators sounded so hollow for the act. So i kept my silence, while people of Pakistan mourned for the loss of hundreds of dream and humanity. 
+	On 16 december 2014, Seven terrorists killed 138 people (I refuse to count 7 terrorists as human death.) including 132 children. This was one of the most dastardly terror attack in the long list of such crimes. I was shocked and saddened with whole event. A mere condemnation of perpetrators sounded so hollow for the act. So i kept my silence, while people of Pakistan mourned for the loss of hundreds of dream and humanity. And <a href="http://www.thehindu.com/trending/indiawithpakistan-when-countries-united-on-twitter/article6700010.ece"> India stood by them in their grief</a>. 
 </p>
 
 <b>Work in progress</b>
