@@ -20,22 +20,22 @@ comments: true
   Pakistan also increased drone strikes in Taliban hideouts in FATA. I cannot feel this being a knee-jerk reaction and mob justice but I hope Pakistan continues 
   and make taliban shit in their pants. 
 </p>
-<p>
-  But its not enough. 
-  <li>
+But its not enough. 
+<li>
     A full blown propanganda factory (with Hafeez Saeed as its CEO) is running to venom against India. That should be silenced. 
     Pakistan should also stop using Taliban as asset in fighting with India. 
   </li>
   <br/>
-  <img width="100%" height="480" href="http://bawlipoonch-github.io/img/taliban-leader.jpg"/>
+  <img width="100%" height="480" src="http://bawlipoonch.github.io/img/taliban-leader.jpg"/>
   <span class="caption text-muted">Count how many PAK army officers are standing behind TTP Chief(now dead).</span>
-  <li> Extremist taliban has lot of sympathy in each quarter. This <a href="http://www.dawn.com/news/1152382">hypocrisy of good taliban and bad taliban</a> thing needs to be killed. 
-    People openly shows support to Taliban and nothing happens</li>
-  * 
-</p>
-<b>Work in progress: </b>
-Meanwhile you can read this huge story: <a href="http://www.nytimes.com/2014/12/22/world/asia/in-2008-mumbai-attacks-piles-of-spy-data-but-an-uncompleted-puzzle.html">In retrospect, the devastating Mumbai attacks could have been stopped with better intelligence sharing.</a>
-
+  <li> Extremist taliban has lot of sympathy in each quarter. 
+    This <a href="http://www.dawn.com/news/1152382">hypocrisy of good taliban and bad taliban</a> thing needs to be killed. 
+    People openly shows support to Taliban and nothing happens to them. For example, Arshad Mehmood hanged as a terrorist few days back but buried as a hero. 
+    This mindset, the cancer, has badly affected. Until we all stop sympathizing with the them, there will remain a fertile ground for our young generation to be brain washed into it. 
+  </li>
+  
+  <img width="100%" height="480" src="http://bawlipoonch.github.io/img/arshad-mehmood.jpg"/>
+  <span class="caption text-muted"></span>
 <blockquote>
 	उठ-उठ के मस्जिदो से नमाज़ी चले गए<br/>
 	दहशतगर्दो के हाथ इस्लाम रह गया
