@@ -24,18 +24,20 @@ But its not enough.
 <li>
     A full blown propanganda factory (with Hafeez Saeed as its CEO) is running to venom against India. That should be silenced. 
     Pakistan should also stop using Taliban as asset in fighting with India. 
-  </li>
-  <br/>
-  <img width="100%" height="480" src="http://bawlipoonch.github.io/img/taliban-leader.jpg"/>
-  <span class="caption text-muted">Count how many PAK army officers are standing behind TTP Chief(now dead).</span>
-  <li> Extremist taliban has lot of sympathy in each quarter. 
-    This <a href="http://www.dawn.com/news/1152382">hypocrisy of good taliban and bad taliban</a> thing needs to be killed. 
-    People openly shows support to Taliban and nothing happens to them. For example, Arshad Mehmood hanged as a terrorist few days back but buried as a hero. 
-    This mindset, the cancer, has badly affected. Until we all stop sympathizing with the them, there will remain a fertile ground for our young generation to be brain washed into it. 
-  </li>
-  
-  <img width="100%" height="480" src="http://bawlipoonch.github.io/img/arshad-mehmood.jpg"/>
-  <span class="caption text-muted"></span>
+</li>
+<br/>
+<img width="100%" height="480" src="http://bawlipoonch.github.io/img/taliban-leader.jpg"/>
+<span class="caption text-muted">Count how many PAK army officers are standing behind TTP Chief(now dead).</span>
+<li> 
+  Extremist taliban has lot of sympathy in each quarter. 
+  This <a href="http://www.dawn.com/news/1152382" target="_blank">hypocrisy of good taliban and bad taliban</a> needs to be killed. 
+  People openly shows support to Taliban and nothing happens to them. For example, <a target="_blank" href="http://www.dawn.com/news/1152270">Arshad Mehmood was hanged as a terrorist few days back but buried as a hero</a>. 
+  This mindset, the cancer, has badly affected. Until we all stop sympathizing with the them, there will remain a fertile ground for our young generation to be brain washed into it. 
+</li>
+<img width="100%" height="480" src="http://bawlipoonch.github.io/img/arshad-mehmood.jpg"/>
+<span class="caption text-muted">Why so many muslims were present for burial of a terrorist ?</span>
+
+<p>I will finish with below couplet and appeal all Muslims to take back Islam from the hands of these 'dahshatgards'.</p> 
 <blockquote>
 	उठ-उठ के मस्जिदो से नमाज़ी चले गए<br/>
 	दहशतगर्दो के हाथ इस्लाम रह गया
