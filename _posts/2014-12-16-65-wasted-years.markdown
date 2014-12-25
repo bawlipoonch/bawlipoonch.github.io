@@ -16,7 +16,7 @@ Its about how to effectively address this falsehood.
 <p> The discussion usually proceeds somewhat like this: </p>
 
 <i>A Sanghi will cite some statistic regarding development where India is desperately lagging. 
-  And then add: In 60 years Nehru-Gandhi family damaged this great country (sone ki chidiya). 
+  And then add: In 65 years Nehru-Gandhi family damaged this great country (sone ki chidiya). 
   Shame on you for supporting the Congress and justifying soul crushing poverty that the dynasty has brought upon us.
 </i>
 
