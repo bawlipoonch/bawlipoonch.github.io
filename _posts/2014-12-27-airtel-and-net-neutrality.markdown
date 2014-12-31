@@ -10,12 +10,12 @@ comments: true
 
 <p> 
   Airtel announced a change in its data pricing model and started charging normal prices for VOIP calls separate from the bundled data plans. 
-  That comes around 4k per GB on 3G network. That look atrociously high charge. And i was outraged. </p>
+  That comes around 4k per GB on 3G network. Its atrociously high price. And i was outraged. </p>
 <p>  
   Then i cooled down a bit and thought more on this. I realized that all telecom companies have paid big money to buy the 2G/3G spectrum.
   And if consumers started using google, skype, viber, whatsapp for voice calls and messaging. The main revenue source for telecom companies will dry up.
   This is not fair. Somebody has to pay for bandwidth. It's either web businesses (like skype) who need bandwidth or infrastructure providers (like airtel) or consumers (thats me). 
-  Web business cannot build free services on infrastructure which costs lot of money to telecom companies without someone paying for that infrastructure. 
+  Web business cannot build free/cheap services on infrastructure which costs lot of money to telecom companies without someone paying for that infrastructure. 
   <b>There's no such thing as a free lunch.</b>. 
 </p>
 <p>
