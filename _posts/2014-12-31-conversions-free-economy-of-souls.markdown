@@ -17,11 +17,12 @@ comments: true
 </p>
 <p>
   Lot of my friends have raised concerns on how unethical is the fact that people sell their religion hence soul for financial benefits (assuming people convert only for that). 
-  And each time i only remember this scene from Swades movie where a poor farmer recounts his poor financial condition.  
+  And each time i only remember this scene from Swades movie where a farmer recounts his poor financial condition.  
   'Mai bas itna janta hu ke ek julaha jisne kheti-baadi karni chahi wo apne parivar ko do waqt ki roti nahi de sakta, bas unhe bhookh se marta hua dekh sakta hai'.
+  Who am i to condemn such conversion if it helps someone to put food on the table or afford basic necessities like education, health.
 </p>
 <iframe width="720" height="480" src="//www.youtube.com/embed/wV4S0SnXdKc" frameborder="0" allowfullscreen></iframe>
-<span class="caption text-muted">Mohan Bhargav goes to collect rent from haridas, a poor farmer.</a>.</span>
+<span class="caption text-muted">Mohan Bhargav goes to collect rent from haridas, a poor farmer.</span>
 <p>
   Other reason which is often ignored by RSS is that, mostly Dalits have converted to other religions (buddhism and christinity) as 
   the lure of being treated with dignity is much more powerful than anything that hinduism with caste discrimation have to offer. 
