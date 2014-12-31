@@ -2,7 +2,7 @@
 layout:     post
 title:      "Conversions : Free economy of souls"
 subtitle:   "Saste daamo mai har roz Khuda bikte hai!"
-date:       2014-12-31 12:00:00
+date:       2014-12-26 12:00:00
 author:     "mdasif"
 header-img: "img/souls-of-black.jpg"
 comments: true
@@ -24,16 +24,16 @@ comments: true
 <span class="caption text-muted">Mohan Bhargav goes to collect rent from haridas, a poor farmer.</a>.</span>
 <p>
   Other reason which is often ignored by RSS is that, mostly Dalits have converted to other religions (buddhism and christinity) as 
-  the lure of being treated with dignity is much more powerful than anything that hinduism with caste discrimation have to offer. 
+  the lure of being treated with dignity much more powerful than anything that caste discrimation have to offer. 
+</p>
+<p> 
+  That's why do not support Anti-Conversion bill as it will only become a instrument to hold people into their respective faiths they are born into. 
+  State should not not interfere in deciding what religion its people should follow or not follow. In fact state must encourage that religion becomes a personal matter. 
 </p>
 <p>
   Hence I believe that All religions should be given a free hand to run conversion programs. 
   As long as there is no coercion (eg burning down of temples/mosque/churches, beating, burning of people) or use of state machinery with inducements that are rights (like ration cards, passports, Aadhar etc).
   Till there is no market pressure, No religion has reasons to reform. 
-</p>
-<p> 
-  That's why I do not support Anti-Conversion bill as it will only become a instrument to hold people into their respective faiths they are born into. 
-  State should not not interfere in deciding what religion its people should follow or not follow. In fact state must encourage that religion becomes a personal matter. 
 </p>
 <p>
   In effect, let there be a free economy for souls.
