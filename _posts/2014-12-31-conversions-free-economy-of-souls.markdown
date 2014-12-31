@@ -27,8 +27,8 @@ comments: true
   the lure of being treated with dignity is much more powerful than anything that hinduism with caste discrimation have to offer. 
 </p>
 <p>
-  Hence I believe that All religions should be given a free hand to run conversion programs. 
-  As long as there is no coercion (eg burning down of temples/mosque/churches, beating, burning of people) or use of state machinery with inducements that are rights (like ration cards, passports, Aadhar etc).
+  The point i am trying to make is that I believe that All religions should be given a free hand to run conversion programs whether it is ghar wapsi or welcome to Gospel or Call to Allah. 
+  If people are willing to change their religion for any reason including financial incentives. They should be allowed to do that As long as there is no coercion (eg burning down of temples/mosque/churches, beating, burning of people) or use of state machinery with inducements that are rights (like ration cards, passports, Aadhar etc).
   Till there is no market pressure, No religion has reasons to reform. 
 </p>
 <p> 
