@@ -34,7 +34,7 @@ comments: true
   and our San Francisco-based voter might not know or care how bad public services are in his Indian native town are for him to hold the elected representative accountable.
 </p> 
 <p>
-  One way would be to create a NRI constituency in the Rajya Sabha and the upper houses of state assemblies (not all states have upper house), 
+  A better way to allow participation of NRI community is to create a NRI constituency in the Rajya Sabha and the upper houses of state assemblies (not all states have upper house), and allow all NRIs to pick representative who will voice their interests.
   We might need several NRI seats because different NRI populations have different needs. 
 </p>
 <p>It is important that all Indian citizens are included in India political system. 
