@@ -18,7 +18,7 @@ comments: true
   vote in their constituencies. Many NRIs came back to vote in the May 2014 elections.
   <br/> Now Government is going to allow NRIs to vote through electronic medium. This has several problems.
   <br/> To begin with, this is logistical nightmare for Ministry of External Affairs and Election Commission of India. As someone noted, 
-  <a href="https://in.news.yahoo.com/blogs/opinions/sun-doesn-t-set-indian-republic-042841567.html" target="_blank">The sun doesn’t set on the Indian Republic</a>. 
+  <a href="https://in.news.yahoo.com/blogs/opinions/sun-doesn-t-set-indian-republic-042841567.html" target="_blank">The sun doesn’t set on the Indian Republic</a> so reaching to everyone on foreign soil will not be easy. 
   Method being suggested is electronic transmission from ECI to individuals and they send back physical copies. This will entail a lot of security and validation to say the least.
   <br/> 
   However, the real problem is more than just logistics. NRIs voters have a moral hazard: <b>the NRI voter is not around in the constituency to directly benefit from or suffer 
