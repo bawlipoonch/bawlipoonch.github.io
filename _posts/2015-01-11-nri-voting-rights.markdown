@@ -2,7 +2,7 @@
 layout:     post
 title:      "NRI and voting rights"
 subtitle:   "We will never have true civilization until we have learned to recognize the rights of others."
-date:       2015-01-07 12:00:00
+date:       2015-01-12 12:00:00
 author:     "mdasif"
 header-img: "img/rights.jpg"
 comments: true
