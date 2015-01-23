@@ -27,7 +27,7 @@ You will struggle to stand out and the pressures to blend in, find some sort of 
 </p>
 <p>
 So you are the real deal. To start off your career, you dive in and start pulling your weight. 
-But even a moron in a hurry can see that what you're doing is <del>valuable</del> essential to the company. 
+Even a moron in a hurry can see that what you're doing is <del>valuable</del> essential to the company. 
 You keep working, in your little corner. Nobody notices anything and if they do, it's when you fail. 
 You complain about not being noticed to your peers, you rant about how your life sucks.<br/>
 Just getting your work done is not enough. You need to show off that as well. 
