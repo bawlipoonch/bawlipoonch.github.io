@@ -71,5 +71,7 @@ India wont be clean with this abhiyaan and it will our fault now that we did not
   However, unless the streets of Delhi can similarly be magically transformed tomorrow, there is little likelihood of similar transformation in Delhi or other major cities.
 </p>
 <p>
-  I did not touched upon rural focused awareness and monetary help part of the program which is rehash of <a href="https://en.wikipedia.org/wiki/Nirmal_Bharat_Abhiyan">Nirmal Bharat Abhiyan</a>.
+  I did not touched upon rural focused awareness and monetary help part of the program which is a rehash of 
+  <a href="https://en.wikipedia.org/wiki/Nirmal_Bharat_Abhiyan">Nirmal Bharat Abhiyan</a>. 
+  Interesting enough, <a href="http://qz.com/324877/is-narendra-modi-losing-the-battle-of-toilets-to-manmohan-singh/" target="_blank">here Manmohan Singh is beating Narendra Modi hollow</a>.
 </p>
