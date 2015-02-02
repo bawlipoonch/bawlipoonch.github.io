@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Will of steel"
+title:      "Will of Steel"
 subtitle:   "With 15th grandslam, Leander Paes simply refuses to stop by sheer determination."
 date:       2015-02-01 12:00:00
 author:     "mdasif"
@@ -14,14 +14,14 @@ comments: true
 </p>
 <p>
   I don't follow tennis actively but this display of such human desire to push the boundaries has to be witnessed by everyone. Tennis is the game of fitness. 
-  It takes limb, nerve and mind to serve the ball each time with the swiftness everytime. How does one hold that together for 41 years of his life ?
+  It takes limb, nerve and mind to serve the ball with the swiftness every single time. How does one hold that together for 41 years of his life ?
   <br/>
 </p>  
 <img src="/img/paes.jpg" width="70%" height="480" align="middle"/>
 <span class="caption text-muted">Leander Paes after winning his bronze at Atlanta Olympics, the beginning of Indian tennis story.</span> 
 <p>
-  Through all his career he showed what we lesser men never had: to struggle to excel, to lunge that extra bit, to dig in, to believe that barriers are crossable, 
-  to overcome situations in which we all raise the white of surrender and fade away.
+  Throughout his career he showed what we lesser men never had: to struggle to excel, to lunge that extra bit, to dig in, to believe that barriers are crossable, 
+  to overcome situations in which we all surrender and fade away.
 </p>  
 <p>
   At the age when many sports stars are doing school runs(Not slying on Mahesh Bhupati), Paes has raised a Slam trophy. 
