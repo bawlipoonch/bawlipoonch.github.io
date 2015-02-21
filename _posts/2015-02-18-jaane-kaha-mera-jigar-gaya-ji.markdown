@@ -15,4 +15,4 @@ comments: true
  This is a delightful couple to watch. A dream pair everyone would love to be and grow old teasing each other even when they are grandparents 
 </p>
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/F5Tfd1EKtLI" frameborder="0" allowfullscreen></iframe>
-<span class="caption text-muted">Rafi and Geeta dutt at their playful best.</span>
+<span class="caption text-muted">Rafi saab and Geeta dutt at their playful best.</span>
