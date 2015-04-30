@@ -2,39 +2,15 @@
 layout:     post
 title:      "humko tumhare ishq nai kya kya bana diya"
 subtitle:   "Story of heartbreak"
-date:       2015-01-16 12:00:00
+date:       2015-03-16 12:00:00
 author:     "mdasif"
 header-img: "img/cold-cup.jpg"
 comments: true
 ---
-
-<p> 
-हमको तुम्हारे इश्क़ ने क्या-क्या बना दिया<br/>
-जब कुछ न बन सके तो तमाशा बना दिया
-</p>
 <p>
-काशी से कुछ ग़रज़ थी न क़ाबे से वास्ता<br/>
-हम ढूँढने चले थे मोहब्बत का रास्ता<br/>
-देखा तुम्हारे दर को तो सर को झुका दिया<br/>
-जब कुछ न बन ...
-</p>
-<p>
-दिल की लगी ने कर दिया दोनों को बेक़रार<br/>
-दोहरा के दास्तान-ए-मोहब्बत फिर एक बार<br/>
-मजनूं हमें और आपको लैला बना दिया<br/>
-जब कुछ न बन ...
-</p>
-<p>
-निकले तेरी तलाश में और खुद ही खो गए<br/>
-जब कुछ न बन पड़ी तो दीवाने हो गए<br/>
-दीवानगी मे फिर तेरा कूंचा दिखा दिया<br/>
-जब कुछ न बन ...<br/>
-</p>
-<p>
-जलवों की भीख फेंकने वाले की खैर हो<br/>
-पर्दा हटाके देखने वाले की खैर हो<br/>
-बन के भिखारी इश्क़ ने दामन बिछा दिया<br/>
-जब कुछ न बन ...
-</p>
-
-<iframe width="100%" height="480" src="//www.youtube.com/embed/b1m5rbZwrIw" frameborder="0" allowfullscreen></iframe>
+In December 1989, JKLF terrorist Mushtaq Zargar kidnapped Mufti Sayeed's daughter and got 5 hardcore terrorists released. With BJP's outside support VP Singh paved the way for terrorist release against intelligence agencies' advice. It galvanised militancy in kashmir. </p> <p>
+Cut to 1999: The BJP paves way for the release of Mushtaq Zargar along with Omar Sheikh and Masood Azhar.
+Zargar plans several big attacks on Indian soil from Pakistan. Sheikh slaughters Daniel Pearl and Azhar coordinates terrorists activities of Jaish-e-Mohammed. </p> <p>
+Cut to 2015: BJP, now with full majority, paves way for release of Islamist radical Masrat Alam. Hizbul terrorist Fakhtoo may be next.
+Several times in the past, Hizbul and United Jihad Council chief Syed Salahudin has lauded the roles of Alam and Fakhtoo. </p> <p>
+So, Bhakt janon, Masrat Alam is free. Others will be , too. Yeh kaisi nationalist party hai ji ? Chullu bhar paani mai du ya tum khud jugaad loge ? </p>
