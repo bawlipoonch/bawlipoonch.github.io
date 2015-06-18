@@ -21,8 +21,8 @@ place so that you can<br/>
 never go back to them<br/>
 without tasting us<br/>
 like blood in your mouth<br/>
-I will destroy you in most beautiful way possible<br/>
-And when i leave<br/>
+We will destroy you in most beautiful way possible<br/>
+And when we leave<br/>
 you will finally understand,<br/>
 why storms are named after people.<br/> 
 </i>
