@@ -24,3 +24,5 @@ And when i leave<br/>
 you will finally understand,<br/>
 why storms are named after people.<br/> 
 </i>
+
+Read more awesomeness <a href="http://wordsfortheyear.com/2014/08/31/do-not-fall-in-love-with-people-like-me-by-caitlyn-siehl/" target="_blank">here</a>.
