@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "..u will finally understand"
-subtitle:   "Caithlyn Seihl, <i>Literary Sexts</i>"
+title:      "u will finally understand.."
+subtitle:   "Caithlyn Seihl, <i>What We Buried</i>"
 date:       2015-06-17 12:00:00
 author:     "mdasif"
 header-img: "img/poetry.jpg"
