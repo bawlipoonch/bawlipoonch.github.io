@@ -2,7 +2,7 @@
 layout:     post
 title:      "..u will finally understand"
 subtitle:   "Caithlyn Seihl, <i>Literary Sexts</i>"
-date:       2015-02-20 12:00:00
+date:       2015-06-17 12:00:00
 author:     "mdasif"
 header-img: "img/poetry.jpg"
 comments: true
