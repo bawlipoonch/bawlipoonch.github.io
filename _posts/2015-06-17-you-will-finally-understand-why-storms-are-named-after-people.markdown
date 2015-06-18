@@ -8,7 +8,9 @@ header-img: "img/poetry.jpg"
 comments: true
 ---
 
-<p>I'd never heard of Caithlyn Seihl and now i'll never forget.<p>
+<p>I'd never heard of Caithlyn Seihl and now i'll never forget.
+</p>
+<p>
 <i>
 Do not fall in love with people like me <br/>
 we will take you to<br/>
@@ -24,5 +26,7 @@ And when i leave<br/>
 you will finally understand,<br/>
 why storms are named after people.<br/> 
 </i>
-
+</p>
+<p>
 Read more awesomeness <a href="http://wordsfortheyear.com/2014/08/31/do-not-fall-in-love-with-people-like-me-by-caitlyn-siehl/" target="_blank">here</a>.
+</p>
