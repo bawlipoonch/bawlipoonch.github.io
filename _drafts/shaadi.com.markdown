@@ -9,29 +9,6 @@ comments: true
 ---
 
 <p>
-1. <a href="http://www.shaadi.com/profile?profileid=ASH98145070" target="_blank"> Zoha</a>  After coming back<br/>
-8  <a target="_blank" href="http://www.shaadi.com/profile?profileid=iSH70758813"> S Siddiqui</a> Hold <br/>
-9  <a target="_blank" href="http://www.shaadi.com/profile?profileid=DSH81016946"> Sana Noor</a> Hold <br/>
-10 <a target="_blank" href="http://www.shaadi.com/profile?profileid=ZSH72491578"> Lucknow Wipro</a>Hold<br/>
-16 <a target="_blank" href="http://www.shaadi.com/profile?profileid=ISH19026814"> Uzma </a>After coming back<br/>
-17 <a target="_blank" href="http://www.shaadi.com/profile?profileid=9SH32398953"> Ayesha</a>After coming back<br/>
-18 <a target="_blank" href="http://www.shaadi.com/profile?profileid=6SH45575583"> Hira</a>After coming back<br/>
-20 <a target="_blank" href="http://www.shaadi.com/profile?profileid=NSH41414315"> Eram</a>After coming back<br/>
-22 <a target="_blank" href="http://www.shaadi.com/profile?profileid=GSH79561470"> Gulistan N</a>After coming back<br/>
-23 <a target="_blank" href="http://www.shaadi.com/profile?profileid=ZSH04993068"> Hera Mahmood</a>After coming back<br/>
-<br/>
-2. <a href="http://www.shaadi.com/profile?profileid=TSH87333886" target="_blank"> Shaina Qureshi </a> Pursue in India <br/>
-5  <a href="http://www.shaadi.com/profile?profileid=GSH22632956" target="_blank"> SH22632956</a> Pursue in Delhi <br/>
-7  <a target="_blank" href="http://www.shaadi.com/profile?profileid=2SH14628394"> SH14628394 Faridabad Doctor</a> Pursue in Delhi <br/>
-19 <a target="_blank" href="http://www.shaadi.com/profile?profileid=JSH94634219"> Mehrin Zeba</a>In Delhi<br/>
-21 <a target="_blank" href="http://www.shaadi.com/profile?profileid=lSH38623309"> Saba Alam</a>In Delhi<br/>
-15 <a target="_blank" href="http://www.shaadi.com/profile?profileid=3SH00086003"> Ghazala yasmin</a>In Delhi<br/>
-<br/>
-6  <a href="http://www.shaadi.com/profile?profileid=TSH76022814" target="_blank"> Hiba </a><br/>
-11 <a target="_blank" href="http://www.shaadi.com/profile?profileid=4SH51789729"> Sadiya F</a>Pursue<br/>
-12 <a target="_blank" href="http://www.shaadi.com/profile?profileid=uSH80069262"> Z Ansari</a>Pursue<br/>
-13 <a target="_blank" href="http://www.shaadi.com/profile?profileid=ySH00381913"> Qazmeen</a>Pursue<br/>
-14 <a target="_blank" href="http://www.shaadi.com/profile?profileid=uSH77982833"> Farha Khan</a>Pursue<br/>
 </p>
 
 

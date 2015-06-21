@@ -25,4 +25,15 @@ Dylan poses a challenge that If we don’t do the right thing, there’s going t
 </p> 
 
 <iframe width="720" height="480" src="//www.youtube.com/embed/3l4nVByCL44" frameborder="0" allowfullscreen></iframe> 
-<span class="caption text-muted">Bob dylan's spiritual 'blowing in the wind' which is described as <a href="http://en.wikipedia.org/wiki/Blowin%27_in_the_Wind">impenetrably ambiguous: either the answer is so obvious it is right in your face, or the answer is as intangible as the wind</a>.</span>
+<span class="caption text-muted">Bob dylan's impenetrably ambiguous 'blowing in the wind' means 
+  <a href="http://en.wikipedia.org/wiki/Blowin%27_in_the_Wind">either the answer is so obvious it is right in your face, or the answer is as intangible as the wind</a>.</span>
+
+<p>
+  But today these lines reminded me of the agrarian crisis rural India is going through, numerous suicides farmers are commiting and oblivious India policy makers, corporates and urban middle class. 
+  Farmers suicide is nothing new in the country. But this year is different. Last year khareef season was bad because of poor monsoon and draught. 
+  And now the rabi crops are all destroyed due to irrational rains and thunderstorms. This coupled with very minimal increase in MSP prices of the wheat,rice means farmers are staring at debt crisis.
+  New NDA govts starving pro-poor MNREGA is not helping the cause at all. 
+</p>  
+<p>
+
+</p>  
