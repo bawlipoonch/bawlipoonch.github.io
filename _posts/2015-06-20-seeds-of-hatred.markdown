@@ -17,13 +17,10 @@ Opposition parties have naturally leapt on this with glee. Advani's miff with PM
 His comments were rightly interpreted as a not-so-oblique indictment of the centralising personality of Modi.<br/>
 </p>
 <p>
-But we dont a bigot to tell us what is happening in the country. He has played his role very well bringing India to this. He is father of communal divisive politics in India. Merely because he gives convoluted answers today, he cannot wipe away a trail littered with the blood stains of innocent Indians slaughtered in post Ayodhya carnage or every communal riots which can be linked back to black day 6 dec 1992. He cannot divorce himself from his seminal role in the institutionalisation of hate—the demonisation of the other—as the dominant feature of the Indian political discourse? The emperor’s new clothes will not blind us to the fact that he was naked in the hamaam not too long ago <br/>
+But we dont need a bigot to tell us what is happening in the country. He has played his role very well in bringing India to this. He is father of communal divisive politics in India. Merely because he gives convoluted answers today, he cannot wipe away a trail littered with the blood stains of innocent Indians slaughtered in post Ayodhya carnage or every communal riots which can be linked back to black day 6 dec 1992. He cannot divorce himself from his seminal role in the institutionalisation of hate—the demonisation of the other—as the dominant feature of the Indian political discourse? The emperor’s new clothes will not blind us to the fact that he was naked in the hamaam not too long ago <br/>
 
 I will quote <b>Khushwant Singh</b> who provided some much-needed perspective in <a href="http://www.outlookindia.com/article/ghost-burial-that-wasnt-to-be/237115" target="_blank">Outlook: Ghost Burial That Wasn't to Be</a>.
-
 </p>
-
-
 
 <span class="caption text-muted">
 # My disenchantment began after he launched his rath yatra from Somnath to Ayodhya. When he was Union home minister, I said on his face, “Mr Advani, you sowed the dragon seeds of hatred in this country….” In his address, he said he would answer my charges at a more appropriate time. I hoped to find them in his autobiography; they are not there.
