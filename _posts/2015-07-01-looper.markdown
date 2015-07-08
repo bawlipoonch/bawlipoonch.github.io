@@ -1,0 +1,27 @@
+---
+layout:     post
+title:      "Looper"
+subtitle:   "this time travel crap, just fries my brain like an egg"
+date:       2015-07-01 12:00:00
+author:     "mdasif"
+header-img: "img/looper.jpeg"
+comments: true
+---
+
+First off, go see Looper. One of the best movies I’ve seen. Spoilers follow.
+
+OK, So story is set in 1945. Time travel has not yet been invented. But thirty years from now, it will have been. It will be instantly outlawed, used only in secret by only the largest criminal organizations. It's nearly impossible to dispose of a body in the future... I'm told. Tagging techniques, whatnot. So when these criminal organizations in the future need someone gone, they use specialized assassins in our present called "Loopers." And so, my employers in the future nab the target, they zap them back to me - their Looper. He appears, hands tied and head sacked, and I do the necessaries. Collect my silver. So the target has vanished from the future, and I've just disposed of a body that technically does not exist. Clean.
+
+As a looper you spend time sitting in a corn field shooting people, eventually shoot yourself and get a big payday, live off of it for thirty more years, then get kidnapped and sent back in time and shot by yourself (to close the loop in case govt can find out from you if you killed anyone in past for the crime overlords). Notice that this is a stable timeloop: young you grows old, goes back in time, gets shot by young you, who grows old, goes back in time, gets shot by young you, who grows old … etc.
+
+But time travel doesn’t eliminate free will. We see this with the case of Seth. Instead of shooting Old Seth, Young Seth decides to let him escape. This too is a stable timeloop: young Seth grows old, goes back in time, escapes, lives in hiding while young Seth grows old, gets kidnapped, goes back in time, escapes, lives in hiding while … .
+
+But other characters have free will too: young Joe decides to give young Seth up. The gang cuts off one of young Seth’s fingers, pushing him into a new timeloop: young Seth gets caught, loses one of his fingers, goes back in time, escapes, while young Seth gets caught, loses one of his fingers, goes back in time, escapes, etc. With each new choice by the gang to let old Seth change young Seth’s future (and thus old Seth’s past), we head into a new timeloop, where old Seth has a different past (and thus different memories and different missing limbs).
+
+In the first main timeloop (shown second in the movie, via a flashback), young Joe shoots old Joe, goes to China, becomes an unusually-talented agent of violence, finds true love, is kidnapped and sent back in time, and gets killed by young Joe, who goes on to do the same thing. This too is a nice stable timeloop.
+
+But on one of these runs through the loop, old Joe manages to overpower the guards and, while he does go back in time, he manages to keep young Joe from killing him. He escapes into the field, finds the location of young Cid, then comes back to shoot Cid’s mother while Cid escapes into field and stows away on a train. Cid grows up to be the Rainmaker and Joe grows old. Cid’s henchmen murder old Joe’s wife but are overpowered by old Joe, who goes back in time to try again to kill Cid, who again escapes to become the Rainmaker and kill Joe’s wife. This too is a stable timeloop, although we see some of it only in speculative flash-forwards.
+
+Which timeloop are we watching? Well, we’re watching the story of a particular instance of Joe, who we’ll call Movie Joe. Movie Joe only exists, however, because of a choice made by Flashback Joe (the Joe we see in the flashback that begins when Movie Joe is falling from his apartment). Flashback Joe is born, grows up, decides to give up Seth, closes his own loop, grows old, overpowers the henchmen, goes back in time, knocks out Movie Joe, hunts down Cid, and is about to kill Cid’s mother.
+
+But Flashback Joe is not the protagonist of the film. The protagonist is Movie Joe. Movie Joe is born, grows up, decides to give up Seth, fails to close his loop, goes to protect Cid. Normally, young Joe fails and heads into a timeloop where Cid stows away on the train and becomes the Rainmaker. But Movie Joe somehow is able to foresee this future and concludes the only way to prevent it is to kill himself. Since he dies there, he never grows old and never goes back in time, leading to a timeline where Flashback Joe doesn’t ever exist. Note, this is not a stable timeloop (because Movie Joe only kills himself to stop Flashback Joe, who can’t exist if Movie Joe kills himself) but instead just a garden-variety timeline. In this timeline, presumably, Sarah keeps Cid from growing evil and everything ends happily ever after.
