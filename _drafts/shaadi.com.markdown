@@ -11,22 +11,6 @@ comments: true
 <p>
 </p>
 
-
-
-Assalamu alaikum Yasmin sahab,
-
-This is regarding your daughter Zoha's shaadi.com profile. I really liked her profile as she is super talented and . 
-So i expressed my interest in possibility of you considering my proposal for her. 
-I am a honest and decent person who is easy to live with and passionate about career and many things in life. 
-To know more about me, please feel free to check my professional profile at https://www.linkedin.com/in/hackerasif 
-Also, my personal blog bawlipoonch.github.io reflects my personality and opinions.
-I am also reachable at my phone +1 415 374 9811 or email hackerasif@gmail.com for any questions you may have
-Hoping to listen from you favorably.
-
-Allah Hafiz,
-Asif
-
-
 Assalamu alaikum,
 
 I sent you a interest request for your daughter's profile on shaadi.com. I know its really hard for a parent to decide if a guy is right for his/her daughter or not.
@@ -186,6 +170,41 @@ Among Lions,few learn modern art of hunting. They get into costumes of sheep and
 There aren’t many Jesus around. Even if there are few who are closer to Jesus, they are content with themselves. They won’t mind leading but they won’t come forward, at times cause it hurts their ego,at times cause they are not in trouble so they  dont care.And when they do come forward, lions among sheep convinces the herd that he is even worse than lion.
 
 Sheeps should come forward, not to choose just another sheep, not to choose  lion in sheep costume but to convince the Jesus to lead them.
+
+Abhishek
+Adil
+Ahmed
+Amit
+Arbab
+Divya
+Gautam
+Hassan
+Jitesh
+Arya
+Ahad
+Shahid
+Waseem
+Haris
+Saleem
+Isha
+Umaima
+Ruchi
+Sarita
+Neha
+Chavi
+Shruti
+Vipul
+Sahil
+Sumit
+Sharad
+Asif
+Ovais
+Rashid
+Pushpesh
+Sudhanshu
+Saurav
+Sunny
+
 
 
 
