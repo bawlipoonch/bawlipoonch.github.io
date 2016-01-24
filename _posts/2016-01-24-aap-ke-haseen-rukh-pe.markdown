@@ -9,8 +9,8 @@ comments: true
 ---
 
 <p>
-A quintessential love ballad, honey laced Rafi saab's vocal that creates a evokes goose-bumpy experience. This song is pure romance, quiet promise and above all devotion, in lyrics, voice and Dharmendra-tanuja.
-A very young Dharmendra serenades his lady love Tanuja who looks every bit equally in love. And if the lady looks so lovely, how can it be man's fault that his heart skips a beat when she is close by? 
+A quintessential love ballad, honey laced Rafi saab's vocal that creates a goose-bumpy experience. This song is pure romance, quiet promise and above all devotion, in lyrics, in voice and in the way they look at each other.
+A very young Dharmendra serenades his lady love Tanuja who looks every bit in love. And if the lady looks so lovely, how can it be man's fault that his heart skips a beat when she is close by? 
 In the song, the elder sister of the lady mistakenly assumes the praise is for her. Thats the problem singing in public, always make sure your beloved is the only woman around when you lay your heart in open :)
 </p>
 <p>
