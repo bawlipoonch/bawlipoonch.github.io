@@ -25,7 +25,7 @@ Ye hai bombay meri jaan aye dil hai mushakil jeena yaha  <br/>
 </i>
 <p/>
 <p>
-Amidst the marvels of development and triumph of materialism, their is not a single trace of humanity in this bustling city.
+Amidst the marvels of development and triumph of materialism, there is not a single trace of humanity in this bustling city.
 </p>
 
 <p>
