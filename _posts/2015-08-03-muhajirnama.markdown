@@ -2,7 +2,7 @@
 layout:     post
 title:      "Muhajir nama"
 subtitle:   ""
-date:       2015-08-03 12:00:00
+date:       2015-11-03 12:00:00
 author:     "mdasif"
 header-img: "img/muhajir.jpg"
 comments: true
