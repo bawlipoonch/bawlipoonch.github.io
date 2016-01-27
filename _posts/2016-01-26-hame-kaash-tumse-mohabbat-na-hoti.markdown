@@ -62,8 +62,8 @@ Zamaane se koyi shikaayat na hoti<br/>
 Hamen kaash tumse mohabbat na hoti<br/>
 </i>
 <br/>
-You would yourself destroy my nest (abode) <br/>
-Then love would consider this as a favor from You<br/>
+Only if you had snuffed out the flicker of my love <br/>
+That would had been your greatest kindness on my love <br/>
 There wouldn't be any complaints from the world<br/>
 I wish that I was never in love with You<br/>
 </i>
