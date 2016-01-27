@@ -15,7 +15,7 @@ comments: true
 
 <p>
  My first song in this list is about the a love story which was doomed from the day one. 
- She is a courtasan in Mughal court and He is the crowned prince. Both knows their story wont have a happy ending, more the lady than the guy. 
+ She is a dancer in court and He is, well he is Mughal-e-Azam. Both knows their story wont have a happy ending, more the lady than the guy. 
  Although the calamity is yet to strick but the lady's heart is breaking over the impending diaster. 
 </p>
 
