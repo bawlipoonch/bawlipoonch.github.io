@@ -53,7 +53,7 @@ I wouldn't have been surprised even if I would've died<br/>
 I wish that I was never in love with You<br/>
 <p/>
 
-<b>then gently queries if only he had not lead her impossible hopes </b>
+<b>then gently complains if only he had not lead her impossible hopes </b>
 <p>
 <i>
 Tumhi phoonk dete nasheman hamaare<br/>
@@ -72,7 +72,7 @@ I wish that I was never in love with You<br/>
 <iframe width="100%" height="480" src="//www.youtube.com/embed/1DcGmKdmsoo" frameborder="0" allowfullscreen></iframe>
 
 <p>
-  Penned by Shakeel Badayuni, this is perhaps my favorite heartbreak song. I have been accused in the past that songs 
+  Penned by Shakeel Badayuni, this is perhaps my favorite heartbreak song. I have been accused that my list of heartbreak songs comprises only songs 
   like <a href="https://www.youtube.com/watch?v=AOfFbcodwHY" target="_blank">"apun jaise tapori ko kya maloom pyaar kis chidiya ka naam hai"</a>. 
-  Not that i dont like that song. but it dont feature in my favorite list.
+  Not that i dont like that song. but it dont feature in my favorite list. Just thought to make it clear :)
 </p>  
