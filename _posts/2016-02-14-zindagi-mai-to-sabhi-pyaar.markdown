@@ -2,7 +2,7 @@
 layout:     post
 title:      "Zindagi mai to sabhi"
 subtitle:   "More than just love III"
-date:       2016-01-14 12:00:00
+date:       2016-02-14 12:00:00
 author:     "mdasif"
 header-img: "img/love.jpg"
 comments: true
