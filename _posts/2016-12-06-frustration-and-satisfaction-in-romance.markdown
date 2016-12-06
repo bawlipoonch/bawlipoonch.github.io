@@ -2,7 +2,7 @@
 layout:     post
 title:      "frustration & satisfaction in romance"
 subtitle:   "James Thurber"
-date:       2016-12-05 12:00:00
+date:       2016-12-06 12:00:00
 author:     "mdasif"
 header-img: "img/poetry.jpg"
 comments: true
@@ -41,4 +41,7 @@ Oh, I've got few more but that's enough to show that Jim's choice lies between a
 Always,<br>
 Jim
 </i>
+</p>
+<p>
+For more awesomeness, read <a href="https://www.amazon.com/dp/0743223438" target="_blank">The Thurber Letters: The Wit, Wisdom, and Surprising Life of James Thurber.</a>.
 </p>
