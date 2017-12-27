@@ -14,7 +14,7 @@ comments: true
 <i>ki ḳhushī se mar na jaate agar e'tibār hotā</i>
 </p>
 <p>
-Ghalib says he was never destined to meet with his beloved & his fate would had been to wait had he not died. It can be interpreted as defeatist (it was never destined) or hopeful (he would have continued to wait if not died). He continues that it is wrong to say that i lived by your promise to meet. He would have died of happiness had he believed in it (on his beloved's promise). Ghalib's swagger, died of waiting for beloved and still a show of defiance!</p>
+Ghalib says he was never destined to meet with his beloved & his fate would had been to wait had he not died. It can be interpreted as defeatist (it was never destined) or hopeful (he would have continued to wait if not dead). He continues that it is wrong to say that i lived by your promise to meet. He would have died of happiness had he believed in it (on his beloved's promise). Ghalib's swagger, died of waiting for beloved and still a show of defiance!</p>
 
 Happy Birthday Ghalib!
 
