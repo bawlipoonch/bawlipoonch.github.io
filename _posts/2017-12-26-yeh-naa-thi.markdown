@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Yeh na thi hamari qismet"
-subtitle:   "Ghalib - II"
+subtitle:   "Mirza Ghalib - II"
 date:       2017-12-26 12:00:00
 author:     "mdasif"
 header-img: "img/ghalib.jpg"
@@ -16,7 +16,7 @@ comments: true
 <p>
 Ghalib says he was never destined to meet with his beloved & his fate would had been to wait had he not died. It can be interpreted as defeatist (it was never destined) or hopeful (he would have continued to wait if not dead). He continues that it is wrong to say that i lived by your promise to meet. He would have died of happiness had he believed in it (on his beloved's promise). Ghalib's swagger, died of waiting for beloved and still a show of defiance!</p>
 
-Happy Birthday Ghalib!
+Happy Birthday Mirza Ghalib!
 
 <iframe width="100%" height="480" src="//www.youtube.com/embed/D9pH6JzSYx0" frameborder="0" allowfullscreen></iframe>
 <span class="caption text-muted">Jagjit Singh's rendition of ghazal 'Ye na thi hamari qismet'</span>
