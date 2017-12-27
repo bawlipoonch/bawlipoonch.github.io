@@ -14,3 +14,12 @@ highlighter: rouge
 permalink: pretty
 paginate: 5
 exclude: ["node_modules"]
+
+plugins:
+ - jekyll-feed
+ - jemoji
+ - jekyll-mentions
+ - jekyll-include-cache
+
+jekyll-mentions:
+  base_url: https://twitter.com
