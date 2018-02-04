@@ -8,6 +8,8 @@ header-img: "img/demon.jpeg"
 comments: false
 ---
 
+**This is regenerated from** <a target="_blank" href="https://bawlipoonch.tumblr.com/post/98328304202/yes-i-am-being-judgemental">my old blog post entry</a>.
+
 So apparently, I am being judgmental and ill-informed. After all a vast majority thinks otherwise. Well, here are facts:
 
 * Contrary to popular belief, the CBI did NOT EVER investigate the riots in their _entirety_. Don’t take my word. Look it up.
@@ -32,7 +34,7 @@ I really don’t care for the snoop-gate. For all I care, Narendra bhai may cont
 
 So, well, I don’t give a shit to the clean chit to modi. Sorry - I actually do. They are cheap at walmart, and come in rolls.
 
-<span class="caption text-muted">*This is regenerated from <a href="https://bawlipoonch.tumblr.com/post/98328304202/yes-i-am-being-judgemental">my old blog post entry</a>.</span>
+<span class="caption text-muted">*.</span>
 
 
 
