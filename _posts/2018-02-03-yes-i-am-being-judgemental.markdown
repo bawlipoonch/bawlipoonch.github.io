@@ -33,8 +33,3 @@ In the best bakery case, 100+ people ganged up and killed 14 people (3 of who we
 I really don’t care for the snoop-gate. For all I care, Narendra bhai may continue to spread his love among his bhens. It is just that people don’t seem to question the atrocious logic offered by the father in his request to stop investigation into snoopgate. Which btw, would still be criminal. Govt cannot just snoop on people., for whatever logic.
 
 So, well, I don’t give a shit to the clean chit to modi. Sorry - I actually do. They are cheap at walmart, and come in rolls.
-
-<span class="caption text-muted">*.</span>
-
-
-
