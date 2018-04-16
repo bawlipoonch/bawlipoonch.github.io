@@ -8,7 +8,7 @@ header-img: "img/determination.jpg"
 comments: true
 ---
 
-I have been writing posts about songs for different moods on this blog. One recurring theme in Bollywood songs is philosophical. Some of them are close to me at personal level as a guiding light how i (or should) live my life. Many of them are introduced to me by my father just like other numerous life lessons he handed to me.
+I have been writing posts about songs for different moods on this blog. One recurring theme in Bollywood songs is philosophical. Some of them are close to me at personal level as a guiding light how i (or should) live my life. Many of them were introduced to me by my father just like other numerous life lessons he handed to me.
 
 Warning: this list is going to be a string of song tributes to Sahir Ludhyanvi, the fatalist poet of modern India and Dev Anand saab just like my other lists :D
 
