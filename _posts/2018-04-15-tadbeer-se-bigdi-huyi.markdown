@@ -19,7 +19,7 @@ For someone whose life is string of failures with dotted success at the right mo
 <i>apne pe bharosaa hai to ye daanv lagaa le, lagaa le daanv lagaa le</i><br>
 </p>
 
-What if cautiously led out plans are going as planned, create your own fate<br>
+What if cautiously led out plans are not going as thought, create your own fate<br>
 if you have faith in yourself, take a gamble on yourself.<br>
 
 <p>
