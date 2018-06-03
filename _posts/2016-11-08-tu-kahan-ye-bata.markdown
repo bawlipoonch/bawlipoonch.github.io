@@ -2,7 +2,7 @@
 layout:     post
 title:      "Kabhi na kabhi koi na koi to aayega"
 subtitle:   ""
-date:       2016-11-07 12:00:00
+date:       2017-11-07 12:00:00
 author:     "mdasif"
 header-img: "img/love.jpg"
 comments: false
