@@ -2,7 +2,7 @@
 layout:     post
 title:      "hue mar ke ham jo"
 subtitle:   "Mirza Ghalib - III"
-date:       2018-02-26 12:00:00
+date:       2019-02-15 12:00:00
 author:     "mdasif"
 header-img: "img/ghalib.jpg"
 comments: true
@@ -14,7 +14,7 @@ comments: true
 <i>neither, there would have been a funeral, nor tomb erected for me.</i></br>
 </p>
 <p>
-Ghalib cryptically says he was disgraced in death, why did I not drown in a river instead? Simply drown in a river of sea. In that case, there would have been no funeral nor any grave built for me someplace. The point being that having no funeral would avoid all kind of indiscreet and unflattering talk that would happen in the ceremony and no grave means that there will no place which will remind people of his ignominy. His passing away would be blotted out from people's mind and that would save him uncomplimentary talk.</p>
+Ghalib cryptically says he was disgraced in death, why did he not drown in a river instead? In that case, there would have been no funeral nor any grave built for me someplace. The point being that having no funeral would avoid all kind of indiscreet and unflattering talk that would happen in the ceremony and no grave means that there will no place which will remind people of his ignominy. His passing away would be blotted out from people's mind and that would save him uncomplimentary talk.</p>
 
 Today is the 150th death anniversary of one of the titans of poetry, Mirza Asadullah Khan Ghalib!
 
